@@ -182,4 +182,9 @@ body{
         width: 150px;
         height: 150px;
     }
+    
+    .clock span{
+        inset: 5px;
+    }
+    
 }
