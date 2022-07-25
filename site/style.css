@@ -187,4 +187,10 @@ body{
         inset: 5px;
     }
     
+    .clock span b{
+        font-size: .7em;
+        opacity: .25;
+        font-weight: 500;
+    }  
+    
 }
