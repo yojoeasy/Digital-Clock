@@ -164,8 +164,22 @@ body{
 @media screen and (max-width: 426px) {
 
     .clock{
-        width: 400px;
-        height: 400px;
+        width: 310px;
+        height: 310px;
+    }
+
+    .circle{
+        width: 250px;
+        height: 250px;
+    }
+
+    .circle2{
+        width: 200px;
+        height: 200px;
     }
     
+    .circle3{
+        width: 150px;
+        height: 150px;
+    }
 }
