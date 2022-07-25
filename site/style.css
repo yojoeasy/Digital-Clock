@@ -169,18 +169,18 @@ body{
     }
 
     .circle{
-        width: 210px;
-        height: 210px;
+        width: 200px;
+        height: 200px;
     }
 
     .circle2{
-        width: 160px;
-        height: 160px;
+        width: 150px;
+        height: 150px;
     }
     
     .circle3{
-        width: 110px;
-        height: 110px;
+        width: 100px;
+        height: 100px;
     }
     
     .clock span{
@@ -188,7 +188,7 @@ body{
     }
     
     .clock span b{
-        font-size: 1.2em;
+        font-size: 1.4em;
         opacity: .25;
         font-weight: 500;
     }  
