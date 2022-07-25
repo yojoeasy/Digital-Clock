@@ -164,8 +164,8 @@ body{
 @media screen and (max-width: 426px) {
 
     .clock{
-        width: 310px;
-        height: 310px;
+        width: 320px;
+        height: 320px;
     }
 
     .circle{
@@ -184,7 +184,7 @@ body{
     }
     
     .clock span{
-        inset: 5px;
+        inset: 2px;
     }
     
     .clock span b{
